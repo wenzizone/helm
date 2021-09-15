@@ -3,7 +3,7 @@ module helm.sh/helm/v3
 go 1.16
 
 require (
-	github.com/BurntSushi/toml v0.3.1
+	github.com/BurntSushi/toml v0.4.1
 	github.com/DATA-DOG/go-sqlmock v1.5.0
 	github.com/Masterminds/semver/v3 v3.1.1
 	github.com/Masterminds/sprig/v3 v3.2.2
@@ -19,7 +19,7 @@ require (
 	github.com/gofrs/flock v0.8.0
 	github.com/gosuri/uitable v0.0.4
 	github.com/jmoiron/sqlx v1.3.1
-	github.com/lib/pq v1.10.0
+	github.com/lib/pq v1.10.3
 	github.com/mattn/go-shellwords v1.0.11
 	github.com/mitchellh/copystructure v1.1.1
 	github.com/opencontainers/image-spec v1.0.1
